@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first_app</string>
+    <string name="title">Mobile Programming</string>
+    <string name="trueValue">True</string>
+    <string name="falseValue">False</string>
+
+
+</resources>
